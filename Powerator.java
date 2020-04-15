@@ -1,5 +1,7 @@
 import structure5.*;
 
+//Iterates through powers of some specified base until it reaches
+//the maximum desired number of iteratorions
 public class Powerator extends AbstractIterator<Double>{
     //Base number for iterator
     protected Double base;
